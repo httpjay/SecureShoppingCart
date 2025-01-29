@@ -106,7 +106,7 @@ If there is an error, the program will display the corresponding error message.
   ```sh
   ./test_shopping_cart
   ```
-###Acknowledgments
+Acknowledgments
 
 This project was developed with the assistance of ChatGPT, which provided guidance on structuring, implementing, and troubleshooting the C++ shopping cart system.
 
