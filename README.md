@@ -105,9 +105,6 @@ If you want to contribute:
 4. Push to your fork: `git push origin feature-name`.
 5. Create a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 **Now you’re ready to use and test the Shopping Cart System!** 🚀
