@@ -36,6 +36,7 @@ This is a secure C++ implementation of a shopping cart system with unit tests. T
   - Correct total cost calculation.
   - Handling of invalid inputs (e.g., invalid customer IDs, negative quantities, non-existent items).
 - Uses `assert()` for test validation.
+  
 
 ## Prerequisites
 Ensure you have:
@@ -68,9 +69,16 @@ test_shopping_cart.exe
 
 ### **Step 4: Expected Output**
 If the tests pass, you should see:
+
 ```
 All tests passed successfully!
 ```
+### **Example Output Screenshot**
+Below is an example of the test run output:
+
+![Test Run Output]("C:\Users\ASUS\OneDrive\Documents\Pictures\Screenshots\Screenshot (135).png")
+
+
 If there is an error, the program will display the corresponding error message.
 
 ## Troubleshooting
